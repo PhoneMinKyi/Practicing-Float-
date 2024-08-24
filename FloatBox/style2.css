@@ -1,0 +1,72 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main{
+    width: 100%;
+    height: 600px;
+    background: green;
+}
+
+.a {
+    width: 70%;
+    height: 600px;
+    background: red;
+    float: left;
+}
+.a1{
+    width: 100%;
+    height: 200px;
+    background: green;
+}
+.a2{
+    width: 60%;
+    height: 400px;
+    background: rgb(128, 122, 0);
+}
+.a2-t{
+    width: 100%;
+    height: 120px;
+    background: rgb(128, 0, 64);
+}
+
+.a2-b{
+    width: 60%;
+    height: 280px;
+    background: rgb(128, 0, 0);
+    float: right;
+}
+.a2-b-l{
+    width: 100%;
+    height: 140px;
+    background: grey;
+}
+
+.a2-b-r{
+    width: 100%;
+    height: 140px;
+    background: rgb(100, 18, 201);
+}
+
+.b {
+    width: 30%;
+    height: 600px;
+    background: rgb(25, 0, 255);
+    float: right;
+}
+
+.b1{
+    width: 100%;
+    height: 400px;
+    background: grey;
+}
+
+.b2{
+    width: 100%;
+    height: 200px;
+    background: rgb(16, 235, 115);
+}
+
+
+
